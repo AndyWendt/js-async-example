@@ -1,0 +1,30 @@
+{
+  "name": "js-async-example",
+  "version": "1.0.0",
+  "description": "Javascript Async Examples",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyWendt/js-async-example.git"
+  },
+  "keywords": [
+    "Async",
+    "Example"
+  ],
+  "author": "Andy Wendt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyWendt/js-async-example/issues"
+  },
+  "homepage": "https://github.com/AndyWendt/js-async-example#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
